@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "linkedin": {
-      "command": "/users/linkedin-mcp/target/release/linkedin-mcp",
+      "command": "/Users/canacar/Projects/rust-linkedin-mcp-branch/target/release/linkedin-mcp",
       "args": []
     }
   }
